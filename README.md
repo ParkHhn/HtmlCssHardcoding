@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffd563&height=300&section=header&text=パク・シヒョンのエントリーシート&fontSize=30&rotate=19&fontColor=404040)
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffd563&height=200&section=header&text=パク・シヒョンのエントリーシート&fontSize=30&rotate=19&fontColor=404040)
 
 # パク・シヒョンのエントリーシート
 
