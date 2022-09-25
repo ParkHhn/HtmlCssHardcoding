@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=ffd563&height=200&section=header&text=パク・シヒョンのエントリーシート&fontSize=32&rotate=13&fontColor=404040&fontAlign=70&fontAlignY=30&stroke=404040&strokeWidth=2)
 
-# パク・シヒョンのエントリーシート
-
 ### SITE
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
